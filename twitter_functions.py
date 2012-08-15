@@ -39,7 +39,9 @@ def userTweets(username):
     To test this function, at the command line run:
         python twitter_api.py -u <username>
     For example,
-        python twitter_api.py -u bostonpython
+        python twitter_api.py -u Orbitz
+    Or,
+        python twitter_api.py -u zoro_tools
     """
     pass
 
